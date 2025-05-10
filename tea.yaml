@@ -1,7 +1,7 @@
 project:
   name: tia-quick-project
   description: Minimal TIA-compatible project
-  repository: https://github.com/YOUR_USERNAME/tia-quick-project
+  repository: repository: https://github.com/zabit11/tia-quick-project
 contributors:
   - wallet: "0xA951143e44Fe9860C346e560fDD59C6C391bfc23"
     github: "zabit11"
