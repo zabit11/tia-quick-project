@@ -1,0 +1,8 @@
+{
+  "name": "tia-quick-project",
+  "version": "1.0.0",
+  "description": "Minimal Tea-compatible placeholder project",
+  "main": "index.js",
+  "author": "zabit11",
+  "license": "MIT"
+}
